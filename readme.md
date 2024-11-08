@@ -21,8 +21,8 @@ The project uses the `sentence-transformers` library to generate embeddings of b
 
 1. **Clone the repository:** <br>
    ```bash
-   git clone <repository_url> 
-   cd <project_directory> 
+   git clone https://github.com/Zedoman/Smart_Search_Tool
+   cd Smart_Search_Tool
 
 2. **Set up the environment: Make sure you have Python 3.x installed, and create a virtual environment:** <br>
     ```bash
