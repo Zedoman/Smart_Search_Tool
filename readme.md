@@ -44,7 +44,6 @@ The project uses the `sentence-transformers` library to generate embeddings of b
 
 ## Setup and Configuration
 1. **Data Configuration: The course data is stored in a JSON file named courses.json. The file should be structured like this:** <br>
-   ```bash
    {
   "free_courses": [
     {
