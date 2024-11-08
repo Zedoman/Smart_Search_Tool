@@ -1,0 +1,199 @@
+{
+    "free_courses": [
+      {
+        "title": "Generative AI - A Way of Life",
+        "description": "Embark on a journey into Generative AI for beginners. Learn AI-powered text and image generation, use top AI tools, and explore industry applications. Gain practical skills, understand ethical practices, and master prompting techniques.",
+        "curriculum": [
+          "Introduction to Generative AI",
+          "Text Generation Using Generative AI",
+          "Image Generation Using Generative AI"
+        ]
+      },
+      {
+        "title": "Getting Started with Large Language Models",
+        "description": "Dive into the world of Large Language Models (LLMs). Understand their architecture, applications, and how to fine-tune them for specific tasks. This course provides a solid foundation for working with LLMs.",
+        "curriculum": [
+          "Introduction to Large Language Models",
+          "Understanding LLM Architecture",
+          "Fine-tuning LLMs for Specific Tasks"
+        ]
+      },
+      {
+        "title": "Building LLM Applications using Prompt Engineering",
+        "description": "This course offers a comprehensive guide on building LLM applications, mastering prompt engineering, implementing best practices, and developing chatbots using enterprise data with advanced techniques like few-shot or one-shot prompting.",
+        "curriculum": [
+          "Introduction to Building Different LLM Applications",
+          "Getting Started with Prompt Engineering",
+          "Understanding Different Prompt Engineering Techniques"
+        ]
+      },
+      {
+        "title": "MidJourney: From Inspiration to Implementation",
+        "description": "Explore the capabilities of MidJourney in generating creative content. Learn how to use this tool effectively to transform your ideas into visual representations.",
+        "curriculum": [
+          "Introduction to MidJourney",
+          "Using MidJourney for Creative Content Generation"
+        ]
+      },
+      {
+        "title": "Building Your First RAG System using LlamaIndex",
+        "description": "Learn to build your first Retrieval Augmented Generation (RAG) system using LlamaIndex. Understand the integration of retrieval mechanisms with generative models to enhance information retrieval.",
+        "curriculum": [
+          "Introduction to RAG Systems",
+          "Setting Up LlamaIndex",
+          "Building and Integrating RAG Systems"
+        ]
+      },
+      {
+        "title": "Exploring Stability.AI",
+        "description": "Delve into the functionalities of Stability.AI. Learn how to leverage this platform for various AI applications and understand its impact on the AI ecosystem.",
+        "curriculum": [
+          "Introduction to Stability.AI",
+          "Exploring Features and Capabilities",
+          "Practical Applications of Stability.AI"
+        ]
+      },
+      {
+        "title": "Introduction to AI & ML",
+        "description": "Learn the current state of AI and ML, how they are disrupting businesses globally. Build a solid understanding of what AI and ML mean, what they represent in the current market and industry, how they work, and why you should learn about them.",
+        "curriculum": [
+          "What is AI & ML?",
+          "Types of ML",
+          "When to Apply AI & ML",
+          "Recent AI Uprising",
+          "How the World is Changing?",
+          "Building Blocks of AI and ML",
+          "Knowing Each Other"
+        ]
+      },
+      {
+        "title": "Introduction to Python",
+        "description": "Master the basics of Python with a detailed introduction to Python for data science analysts. Expand your skillset by learning scientific computing with NumPy.",
+        "curriculum": [
+          "Introduction to Python",
+          "Data Structures in Python",
+          "Control Flow and Functions",
+          "Working with Libraries",
+          "Data Analysis with Pandas",
+          "Data Visualization with Matplotlib"
+        ]
+      },
+      {
+        "title": "Machine Learning Certification Course for Beginners",
+        "description": "In this free machine learning certification course, you will learn Python, the basics of machine learning, how to build machine learning models, and feature engineering techniques to improve the performance of your machine learning models.",
+        "curriculum": [
+          "Introduction to Machine Learning",
+          "Understanding Supervised and Unsupervised Learning",
+          "Data Preprocessing",
+          "Building Machine Learning Models",
+          "Feature Engineering",
+          "Model Evaluation and Tuning"
+        ]
+      },
+      {
+        "title": "The Working of Neural Networks",
+        "description": "This course will provide you with a hands-on understanding of Bagging and Boosting techniques in machine learning. By the end of the course, you will be proficient in implementing and tuning these ensemble methods to enhance model performance.",
+        "curriculum": [
+          "Introduction to Neural Networks",
+          "Understanding Perceptrons",
+          "Activation Functions",
+          "Training Neural Networks",
+          "Backpropagation Algorithm",
+          "Implementing Neural Networks in Python"
+        ]
+      },
+      {
+        "title": "Understanding Linear Regression",
+        "description": "This free course will help you understand the fundamentals of linear regression in a straightforward manner. By the end of this course, you will be able to build predictive models using linear regression techniques.",
+        "curriculum": [
+          "Introduction to Linear Regression",
+          "Understanding Cost Function",
+          "Understanding Gradient Descent",
+          "Assumptions of Linear Regression",
+          "Implementing Linear Regression",
+          "Evaluating Model Performance"
+        ]
+      },
+      {
+        "title": "Building a Text Classification Model with Natural Language Processing",
+        "description": "Learn how to build a text classification model using Natural Language Processing techniques. This course covers data preprocessing, feature extraction, and model evaluation.",
+        "curriculum": [
+          "Introduction to Text Classification",
+          "Data Preprocessing",
+          "Feature Extraction",
+          "Building Classification Models",
+          "Model Evaluation and Tuning"
+        ]
+      },
+      {
+        "title": "The A to Z of Unsupervised ML",
+        "description": "Get ahead of the crowd with this free course on Unsupervised Machine Learning Models. We will be covering popular clustering algorithms and DBSCAN and show you its applications on a real-world business problem.",
+        "curriculum": [
+          "Introduction to Unsupervised Learning",
+          "Clustering Algorithms",
+          "K-Means Clustering",
+          "Hierarchical Clustering",
+          "DBSCAN Clustering",
+          "Applications of Clustering in the Real World"
+        ]
+      },
+      {
+        "title": "Bagging and Boosting ML Algorithms",
+        "description": "This course will provide you with a hands-on understanding of Bagging and Boosting techniques in machine learning. By the end of the course, you will be proficient in implementing and tuning these ensemble methods to enhance model performance.",
+        "curriculum": [
+          "Introduction to Ensemble Learning",
+          "Understanding Bagging",
+          "Implementing Bagging Algorithms",
+          "Understanding Boosting",
+          "Implementing Boosting Algorithms",
+          "Comparing Bagging and Boosting"
+        ]
+      },
+      {
+        "title": "Data Preprocessing on a Real-World Problem Statement",
+        "description": "This course will teach you how to handle missing values, outliers, and categorical data. Learn how to scale and normalize data and how to apply different preprocessing techniques to a real-world dataset.",
+        "curriculum": [
+          "Introduction to Data Preprocessing",
+          "Handling Missing Values",
+          "Dealing with Outliers",
+          "Feature Scaling and Normalization",
+          "Encoding Categorical Data",
+          "Real-World Data Preprocessing Example"
+        ]
+      },
+      {
+        "title": "Advanced Python Programming for Data Science",
+        "description": "This course will take your Python skills to the next level, focusing on advanced Python techniques for data science applications. Learn about advanced data structures, data visualization, and more.",
+        "curriculum": [
+          "Advanced Python Concepts",
+          "Working with Advanced Data Structures",
+          "Python for Data Analysis",
+          "Advanced Data Visualization",
+          "Creating Robust Data Science Projects"
+        ]
+      },
+      {
+        "title": "Deep Learning for Beginners",
+        "description": "Deep dive into the world of deep learning. Learn how neural networks work and how to implement deep learning models using popular libraries like TensorFlow and Keras.",
+        "curriculum": [
+          "Introduction to Deep Learning",
+          "Understanding Neural Networks",
+          "Building Neural Networks with TensorFlow",
+          "Building CNNs and RNNs",
+          "Implementing Deep Learning Models"
+        ]
+      },
+      {
+        "title": "Introduction to Computer Vision",
+        "description": "This course covers the fundamentals of computer vision, including techniques for image processing, feature extraction, and object recognition.",
+        "curriculum": [
+          "Introduction to Computer Vision",
+          "Image Processing Techniques",
+          "Feature Extraction and Matching",
+          "Object Detection and Recognition",
+          "Deep Learning for Computer Vision"
+        ]
+      }
+    ]
+  }
+  
