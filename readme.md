@@ -1,4 +1,4 @@
-# Smart Course Search Tool with Gradio and Sentence Transformers
+# Smart Course Search Tool with Gradio and Sentence Transformers (https://huggingface.co/spaces/Zedoman/SearchTool)
 
 ## Overview
 This project implements a smart search tool for Analytics Vidhya's free courses using Gradio, Sentence Transformers, and Cosine Similarity. The tool allows users to input a query, and the most relevant courses from a dataset of free courses are suggested based on the similarity of the query to the course descriptions. <br>
